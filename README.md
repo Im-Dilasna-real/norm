@@ -11,7 +11,7 @@
 - And more features
 
 ## Deploy your own bot here.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TinuraD/Norm.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Im-Dilasna-real/norm)
 ## Credits
 
 - This bot besed on [TG Bot](https://github.com/PaulSonOfLars/tgbot) which made by [Paul Larsen](https://github.com/PaulSonOfLars). So oiginal credits go to [PaulSonOfLars](https://github.com/PaulSonOfLars) and his dedication. And Norm was cloned by [Daisy-Old Bot](https://github.com/TeamDaisyX/Daisy-OLD), so credits also goes to [Team DaisyX](https://github.com/TeamDaisyX/).
